@@ -5,4 +5,4 @@ Course Link: https://www.udemy.com/course/complete-blockchain-web-application-co
 
 This is a Blockchain based Polling Web Application using Angular, Solidity, Web3Js, Metamask, Ganache and Ethereum.
 
-Note: This is not the instructor's resource. This code is what I wrote copying the instructor along the course.
+Note: This is not the instructor's resource. This code is what I learnt from the course.
